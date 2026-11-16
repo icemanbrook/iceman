@@ -1,0 +1,38 @@
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+authkey*
+
+# Runtime data and private media
+library/
+upload/
+uploads/
+photos/
+videos/
+media/
+backups/
+*.sql
+*.sql.gz
+*.dump
+*.bak
+
+# Tailscale state and machine identity
+tailscale.state
+tailscaled.state
+tailscale/
+
+# Local/editor/OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
