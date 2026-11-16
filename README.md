@@ -137,4 +137,4 @@ This project provided hands-on experience with Linux server administration, Dock
 
 ---
 
-**Note:** This repository documents the project. It does not contain the live Immich configuration, credentials, database, family media or a turnkey installer. Host-specific values are intentionally omitted.
+**Note:** This repository documents the project. It does not contain the live Immich configuration, credentials, database, family media or a turnkey installer.
